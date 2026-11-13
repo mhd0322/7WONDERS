@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 160">
+<g transform="translate(78 80)" fill="none" stroke="#D6AA70" stroke-linejoin="round">
+ <circle r="56" stroke-width="1.5" opacity=".45"/>
+ <circle r="35" stroke-width="1" opacity=".55"/>
+ <path d="M0 -73V73M-73 0H73M-52 -52L52 52M52 -52L-52 52" stroke-width="1" opacity=".55"/>
+ <path d="M0 -62L13 -13L62 0L13 13L0 62L-13 13L-62 0L-13 -13Z" stroke-width="1.7"/>
+ <path d="M0 -62L0 0L13 -13Z M62 0L0 0L13 13Z M0 62L0 0L-13 13Z M-62 0L0 0L-13 -13Z" fill="#D6AA70" opacity=".82" stroke="none"/>
+ <circle r="5" fill="#F2D7AE" stroke="none"/>
+</g>
+<text x="170" y="91" fill="#E8C28E" font-family="Georgia,serif" font-size="67" letter-spacing="2">7WONDERS</text>
+<text x="174" y="124" fill="#BDA78A" font-family="Arial,sans-serif" font-size="13" letter-spacing="5">SEVEN WONDERS. INFINITE STORIES.</text>
+</svg>

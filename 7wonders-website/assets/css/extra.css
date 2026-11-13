@@ -1,0 +1,9 @@
+/* Hanya untuk hal yang tidak bisa dilakukan Tailwind: gaya bawaan Leaflet & scrollbar */
+.leaflet-container{background:#0B0D10;font-family:Manrope,sans-serif}
+.leaflet-control-attribution{background:rgba(11,13,16,.7)!important;color:#a9a597!important;font-size:10px}
+.leaflet-control-attribution a{color:#C6A46B!important}
+.leaflet-bar a{background:#141B24!important;color:#C6A46B!important;border-color:#C6A46B44!important}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:#141B24;color:#F1EBDD;border:1px solid #C6A46B55}
+html{scroll-behavior:smooth}
+::-webkit-scrollbar{width:8px;height:8px}::-webkit-scrollbar-thumb{background:#C6A46B66;border-radius:9px}::-webkit-scrollbar-track{background:#0B0D10}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01s!important;transition-duration:.01s!important}}
